@@ -10,10 +10,17 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "8b2f59b6-9fac-473b-86ea-7a260a9ccea6",
+      "name": "AppSourceApp1Common",
+      "publisher": "Testing",
+      "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "27.0.0.0",
   "idRanges": [
     {
       "from": 70000000,
