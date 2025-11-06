@@ -6,5 +6,13 @@
   ],
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "appDependencyProbingPaths":  [
+        {
+            "repo": "https://github.com/BW-PA/AppSourceApp1Common",
+            "version": "latest",
+            "release_status": "release",
+            "projects": "*"
+        }
+    ]
 }
